@@ -88,7 +88,7 @@ function summarizeForSymbol(sym) {
 
         if(eodFrame.data == undefined) { console.error("No EOD Data for key: "+key+" !") }
         else {
-            var result = eodsAroundDate(eodFrame.data, date, 2)
+            var result = eodsAroundDate(eodFrame.data, date, 1)
             if(result == undefined) {
                 console.error("@"+key+" ["+date+"]: The result was undefined!")
                 // console.log(eodFrame.data)
