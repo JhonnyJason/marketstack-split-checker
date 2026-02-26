@@ -1,0 +1,574 @@
+@NFLX2025-11-17x10:
+[
+  { close: 110, adj_close: 110, split_factor: 1, date: '2025-11-19' },
+  {
+    close: 114.09,
+    adj_close: 114.09,
+    split_factor: 1,
+    date: '2025-11-18'
+  },
+  {
+    close: 110.29,
+    adj_close: 110.29,
+    split_factor: 10,
+    date: '2025-11-17'
+  },
+  {
+    close: 1112.17,
+    adj_close: 1112.17,
+    split_factor: 1,
+    date: '2025-11-14'
+  },
+  {
+    close: 1154.23,
+    adj_close: 1154.23,
+    split_factor: 1,
+    date: '2025-11-13'
+  }
+]
+@NFLX2015-07-15x7:
+[
+  {
+    close: 114.77,
+    adj_close: 114.77,
+    split_factor: 1,
+    date: '2015-07-17'
+  },
+  {
+    close: 115.81,
+    adj_close: 115.81,
+    split_factor: 1,
+    date: '2015-07-16'
+  },
+  {
+    close: 98.13,
+    adj_close: 98.13,
+    split_factor: 7,
+    date: '2015-07-15'
+  },
+  {
+    close: 702.6,
+    adj_close: 100.3713282,
+    split_factor: 1,
+    date: '2015-07-14'
+  },
+  {
+    close: 707.61,
+    adj_close: 101.08704177,
+    split_factor: 1,
+    date: '2015-07-13'
+  }
+]
+@NFLX2004-02-12x2:
+[
+  {
+    close: 35.28,
+    adj_close: 5.04,
+    split_factor: 1,
+    date: '2004-02-17'
+  },
+  {
+    close: 35.54,
+    adj_close: 5.0771,
+    split_factor: 1,
+    date: '2004-02-13'
+  },
+  {
+    close: 37.3,
+    adj_close: 5.3286,
+    split_factor: 2,
+    date: '2004-02-12'
+  },
+  {
+    close: 71.96,
+    adj_close: 5.14,
+    split_factor: 1,
+    date: '2004-02-11'
+  },
+  { close: 72.8, adj_close: 5.2, split_factor: 1, date: '2004-02-10' }
+]
+@ANET2024-12-04x4:
+[
+  {
+    close: 108.25,
+    adj_close: 108.25,
+    split_factor: 1,
+    date: '2024-12-06'
+  },
+  {
+    close: 106.83,
+    adj_close: 106.83,
+    split_factor: 1,
+    date: '2024-12-05'
+  },
+  {
+    close: 105.43,
+    adj_close: 105.43,
+    split_factor: 4,
+    date: '2024-12-04'
+  },
+  {
+    close: 414.46,
+    adj_close: 103.615,
+    split_factor: 1,
+    date: '2024-12-03'
+  },
+  {
+    close: 410.1,
+    adj_close: 410.1,
+    split_factor: 1,
+    date: '2024-12-02'
+  }
+]
+@ANET2021-11-18x4:
+[
+  {
+    close: 128.16,
+    adj_close: 128.16,
+    split_factor: 1,
+    date: '2021-11-22'
+  },
+  {
+    close: 128.96,
+    adj_close: 128.96,
+    split_factor: 1,
+    date: '2021-11-19'
+  },
+  {
+    close: 132.55,
+    adj_close: 132.55,
+    split_factor: 4,
+    date: '2021-11-18'
+  },
+  {
+    close: 528.32,
+    adj_close: 528.32,
+    split_factor: 1,
+    date: '2021-11-17'
+  },
+  {
+    close: 527.27,
+    adj_close: 527.27,
+    split_factor: 1,
+    date: '2021-11-16'
+  }
+]
+@GOOGL2022-07-18x20:
+[
+  {
+    close: 113.9,
+    adj_close: 113.9,
+    split_factor: 1,
+    date: '2022-07-20'
+  },
+  {
+    close: 113.81,
+    adj_close: 113.81,
+    split_factor: 1,
+    date: '2022-07-19'
+  },
+  {
+    close: 109.03,
+    adj_close: 109.03,
+    split_factor: 20,
+    date: '2022-07-18'
+  },
+  {
+    close: 2235.55,
+    adj_close: 111.2456,
+    split_factor: 1,
+    date: '2022-07-15'
+  },
+  {
+    close: 2207.35,
+    adj_close: 109.8424,
+    split_factor: 1,
+    date: '2022-07-14'
+  }
+]
+@GOOGL2014-04-03x2:
+[
+  {
+    close: 540.63,
+    adj_close: 26.9029,
+    split_factor: 1,
+    date: '2014-04-07'
+  },
+  {
+    close: 545.25,
+    adj_close: 27.1328,
+    split_factor: 1,
+    date: '2014-04-04'
+  },
+  {
+    close: 571.5,
+    adj_close: 28.439,
+    split_factor: 1.998,
+    date: '2014-04-03'
+  },
+  {
+    close: 1135.1,
+    adj_close: 28.2698,
+    split_factor: 1,
+    date: '2014-04-02'
+  },
+  {
+    close: 1134.89,
+    adj_close: 28.2646,
+    split_factor: 1,
+    date: '2014-04-01'
+  }
+]
+@AMZN2022-06-06x20:
+[
+  {
+    close: 121.18,
+    adj_close: 121.18,
+    split_factor: 1,
+    date: '2022-06-08'
+  },
+  { close: 123, adj_close: 123, split_factor: 1, date: '2022-06-07' },
+  {
+    close: 124.79,
+    adj_close: 124.79,
+    split_factor: 20,
+    date: '2022-06-06'
+  },
+  {
+    close: 2447,
+    adj_close: 122.35,
+    split_factor: 1,
+    date: '2022-06-03'
+  },
+  {
+    close: 2510.22,
+    adj_close: 125.511,
+    split_factor: 1,
+    date: '2022-06-02'
+  }
+]
+@AMZN1999-09-02x2:
+[
+  {
+    close: 62.9375,
+    adj_close: 62.9375,
+    split_factor: 1,
+    date: '1999-09-07'
+  },
+  {
+    close: 62.4375,
+    adj_close: 62.4375,
+    split_factor: 1,
+    date: '1999-09-03'
+  },
+  {
+    close: 60.0625,
+    adj_close: 60.0625,
+    split_factor: 2,
+    date: '1999-09-02'
+  },
+  {
+    close: 119.0625,
+    adj_close: 59.5313,
+    split_factor: 1,
+    date: '1999-09-01'
+  },
+  {
+    close: 124.375,
+    adj_close: 62.1875,
+    split_factor: 1,
+    date: '1999-08-31'
+  }
+]
+@AMZN1999-01-05x3:
+[
+  {
+    close: 158.875,
+    adj_close: 79.4375,
+    split_factor: 1,
+    date: '1999-01-07'
+  },
+  { close: 138, adj_close: 69, split_factor: 1, date: '1999-01-06' },
+  {
+    close: 124.5,
+    adj_close: 62.25,
+    split_factor: 3,
+    date: '1999-01-05'
+  },
+  {
+    close: 354.9375,
+    adj_close: 59.1563,
+    split_factor: 1,
+    date: '1999-01-04'
+  },
+  {
+    close: 321.25,
+    adj_close: 53.5417,
+    split_factor: 1,
+    date: '1998-12-31'
+  }
+]
+@AMZN1998-06-02x2:
+[
+  {
+    close: 43.875,
+    adj_close: 7.3125,
+    split_factor: 1,
+    date: '1998-06-04'
+  },
+  {
+    close: 42.25,
+    adj_close: 7.0417,
+    split_factor: 1,
+    date: '1998-06-03'
+  },
+  {
+    close: 43.6875,
+    adj_close: 7.2813,
+    split_factor: 2,
+    date: '1998-06-02'
+  },
+  {
+    close: 85.625,
+    adj_close: 7.1354,
+    split_factor: 1,
+    date: '1998-06-01'
+  },
+  {
+    close: 88.125,
+    adj_close: 7.3438,
+    split_factor: 1,
+    date: '1998-05-29'
+  }
+]
+@AAPL2020-08-31x4:
+[
+  {
+    close: 131.4,
+    adj_close: 129.4201,
+    split_factor: 1,
+    date: '2020-09-02'
+  },
+  {
+    close: 134.18,
+    adj_close: 132.1582,
+    split_factor: 1,
+    date: '2020-09-01'
+  },
+  {
+    close: 129.04,
+    adj_close: 127.0957,
+    split_factor: 4,
+    date: '2020-08-31'
+  },
+  {
+    close: 124.8075,
+    adj_close: 122.9269,
+    split_factor: 1,
+    date: '2020-08-28'
+  },
+  {
+    close: 125.01,
+    adj_close: 123.1264,
+    split_factor: 1,
+    date: '2020-08-27'
+  }
+]
+@AAPL2014-06-09x7:
+[
+  {
+    close: 23.465,
+    adj_close: 20.8947,
+    split_factor: 1,
+    date: '2014-06-11'
+  },
+  {
+    close: 23.5625,
+    adj_close: 20.9815,
+    split_factor: 1,
+    date: '2014-06-10'
+  },
+  {
+    close: 23.425,
+    adj_close: 20.8591,
+    split_factor: 7,
+    date: '2014-06-09'
+  },
+  {
+    close: 23.0561,
+    adj_close: 20.5306,
+    split_factor: 1,
+    date: '2014-06-06'
+  },
+  {
+    close: 23.1196,
+    adj_close: 20.5872,
+    split_factor: 1,
+    date: '2014-06-05'
+  }
+]
+@AAPL2005-02-28x2:
+[
+  {
+    close: 1.5757,
+    adj_close: 1.3411,
+    split_factor: 1,
+    date: '2005-03-02'
+  },
+  {
+    close: 1.5893,
+    adj_close: 1.3527,
+    split_factor: 1,
+    date: '2005-03-01'
+  },
+  {
+    close: 1.6021,
+    adj_close: 1.3636,
+    split_factor: 2,
+    date: '2005-02-28'
+  },
+  {
+    close: 1.5891,
+    adj_close: 1.3525,
+    split_factor: 1,
+    date: '2005-02-25'
+  },
+  {
+    close: 1.588,
+    adj_close: 1.3516,
+    split_factor: 1,
+    date: '2005-02-24'
+  }
+]
+@AAPL2000-06-21x2:
+[
+  {
+    close: 0.923,
+    adj_close: 0.7856,
+    split_factor: 1,
+    date: '2000-06-23'
+  },
+  {
+    close: 0.9598,
+    adj_close: 0.8169,
+    split_factor: 1,
+    date: '2000-06-22'
+  },
+  {
+    close: 0.9933,
+    adj_close: 0.8454,
+    split_factor: 2,
+    date: '2000-06-21'
+  },
+  {
+    close: 0.904,
+    adj_close: 0.7694,
+    split_factor: 1,
+    date: '2000-06-20'
+  },
+  {
+    close: 0.8627,
+    adj_close: 0.7343,
+    split_factor: 1,
+    date: '2000-06-19'
+  }
+]
+@AMAT2002-04-17x2:
+[
+  {
+    close: 26.48,
+    adj_close: 20.1225,
+    split_factor: 1,
+    date: '2002-04-19'
+  },
+  {
+    close: 26.71,
+    adj_close: 20.2974,
+    split_factor: 1,
+    date: '2002-04-18'
+  },
+  {
+    close: 27.3,
+    adj_close: 20.7458,
+    split_factor: 2,
+    date: '2002-04-17'
+  },
+  {
+    close: 54.16,
+    adj_close: 20.5785,
+    split_factor: 1,
+    date: '2002-04-16'
+  },
+  {
+    close: 51.44,
+    adj_close: 19.5449,
+    split_factor: 1,
+    date: '2002-04-15'
+  }
+]
+@AMAT2000-03-16x2:
+[
+  {
+    close: 94,
+    adj_close: 35.7156,
+    split_factor: 1,
+    date: '2000-03-20'
+  },
+  {
+    close: 95.8594,
+    adj_close: 36.422,
+    split_factor: 1,
+    date: '2000-03-17'
+  },
+  {
+    close: 87.9375,
+    adj_close: 33.4128,
+    split_factor: 2,
+    date: '2000-03-16'
+  },
+  {
+    close: 171.1875,
+    adj_close: 32.5221,
+    split_factor: 1,
+    date: '2000-03-15'
+  },
+  {
+    close: 178.75,
+    adj_close: 33.9588,
+    split_factor: 1,
+    date: '2000-03-14'
+  }
+]
+@AMAT1997-10-14x2:
+[
+  {
+    close: 44.25,
+    adj_close: 8.4068,
+    split_factor: 1,
+    date: '1997-10-16'
+  },
+  {
+    close: 49.0625,
+    adj_close: 9.3207,
+    split_factor: 1,
+    date: '1997-10-15'
+  },
+  {
+    close: 50.875,
+    adj_close: 9.665,
+    split_factor: 2,
+    date: '1997-10-14'
+  },
+  {
+    close: 105.5,
+    adj_close: 10.0216,
+    split_factor: 1,
+    date: '1997-10-13'
+  },
+  {
+    close: 104.0625,
+    adj_close: 9.885,
+    split_factor: 1,
+    date: '1997-10-10'
+  }
+]
