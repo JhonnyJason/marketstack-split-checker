@@ -107,7 +107,7 @@ export async function eodsAroundSplitRequest(symbol, date, access_key) {
     const params = { symbols: symbol, access_key, date_from, date_to }
     const url = getEoDFetchURL(params)
     // log clean URL
-    // params.access_key = "accssky"
-    // console.log(getEoDFetchURL(params))
+    params.access_key = "accssky"
+    console.log(getEoDFetchURL(params))
     return await queueRequest(url)
 }
